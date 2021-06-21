@@ -1,2 +1,10 @@
 hi this is my first git class 
 hi bue 
+
+Hi 
+There
+
+how are 
+You
+
+working on ci  
